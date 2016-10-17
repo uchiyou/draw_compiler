@@ -1,1 +1,5 @@
-compiler of principle
+- 该解析器可以将数学函数公式解析为具体的图形。
+
+- requirement目录下是项目需求。
+
+- 纯 C 实现，开发环境 Dev-C。
